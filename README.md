@@ -4,4 +4,8 @@
 <P>tag p berfungsi untuk memformat teks menjadi paragraf, membuat teks lebih terstruktur, rapi, dan mudah dibaca di halaman web</P>
 <p>Contohnya:</p>
 <img width="659" alt="Screenshot 2024-09-28 225003" src="https://github.com/user-attachments/assets/4e697189-c917-4908-8df9-652cba760634">
-<img width="956" alt="Screenshot 2024-09-28 231543" src="https://github.com/user-attachments/assets/c4780853-9ab2-4248-a9b3-b1e61fca3525">
+<img width="956" alt="Screenshot 2024-09-28 231543" src="https://github.com/user-attachments/assets/c4780853-9ab2-4248-a9b3-b1e61fca3525"><br>
+<h2>2. Menambahkan Judul</h2>
+<P>h1 digunakan untuk menampilkan judul utama. Biasanya, ini digunakan sekali di satu halaman sebagai judul yang paling penting.
+<p>h2 digunakan untuk subjudul, biasanya sebagai judul di bawah <h1>, tetapi tetap cukup besar untuk menarik perhatian.</P>
+
