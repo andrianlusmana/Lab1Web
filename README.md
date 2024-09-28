@@ -12,7 +12,7 @@
 <img width="640" alt="Screenshot 2024-09-28 233252" src="https://github.com/user-attachments/assets/e471b98d-bff3-459d-9395-16081b5505bb">
 <img width="772" alt="Screenshot 2024-09-28 233435" src="https://github.com/user-attachments/assets/8b37f90a-259e-40b7-a340-e2aaf0400384">
 <br>
-<h2>Memformat teks</h2>
+<h2>3. Memformat teks</h2>
 <p>Teg mark = Digunakan untuk menandai atau menyoroti teks dan akan ditampilkan dengan latar belakang berwarna kuning (secara default di banyak browser)</p>
 <p>Teg b = Digunakan untuk menampilkan teks dalam format tebal (bold).</p>
 <p>Teg i = Digunakan untuk menampilkan teks dalam format miring (italic). </p>
