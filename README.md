@@ -1,4 +1,5 @@
-<h1>PENJELASAAN DARI PRAKTIKUM</h1><br><hr />
+<h1>PENJELASAAN DARI PRAKTIKUM</h1>
+<hr /><br>
 <h2>1. Membuat Paragraf</h2>
 <P>Tag Paragraf (p)</P>
 <P>tag p berfungsi untuk memformat teks menjadi paragraf, membuat teks lebih terstruktur, rapi, dan mudah dibaca di halaman web</P>
