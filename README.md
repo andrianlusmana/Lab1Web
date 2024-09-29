@@ -1,9 +1,10 @@
-<center>
+
   <h1>
-  <b>PENJELASAAN DARI PRAKTIKUM</b>
+    <div style="text-align: center;">
+  PENJELASAAN DARI PRAKTIKUM
+</div>
 </h1>
 <hr />
-</center>
 <br>
 <h2>1. Membuat Paragraf</h2>
 <P>Tag Paragraf (p)</P>
