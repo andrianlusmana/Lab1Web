@@ -1,11 +1,14 @@
-<h1>PENJELASAAN DARI PRAKTIKUM</h1>
+<h1>
+  <b>PENJELASAAN DARI PRAKTIKUM</b>
+</h1>
 <hr /><br>
 <h2>1. Membuat Paragraf</h2>
 <P>Tag Paragraf (p)</P>
 <P>tag p berfungsi untuk memformat teks menjadi paragraf, membuat teks lebih terstruktur, rapi, dan mudah dibaca di halaman web</P>
 <p>Contohnya:</p>
 <img width="659" alt="Screenshot 2024-09-28 225003" src="https://github.com/user-attachments/assets/4e697189-c917-4908-8df9-652cba760634">
-<img width="956" alt="Screenshot 2024-09-28 231543" src="https://github.com/user-attachments/assets/c4780853-9ab2-4248-a9b3-b1e61fca3525"><br>
+<img width="956" alt="Screenshot 2024-09-28 231543" src="https://github.com/user-attachments/assets/c4780853-9ab2-4248-a9b3-b1e61fca3525">
+<hr /><br>
 <h2>2. Menambahkan Judul</h2>
 <ul>
   <li>h1 digunakan untuk menampilkan judul utama. Biasanya, ini digunakan sekali di satu halaman sebagai judul yang paling penting.</li>
@@ -14,7 +17,7 @@
 <p>Contohnya</p>
 <img width="640" alt="Screenshot 2024-09-28 233252" src="https://github.com/user-attachments/assets/e471b98d-bff3-459d-9395-16081b5505bb">
 <img width="772" alt="Screenshot 2024-09-28 233435" src="https://github.com/user-attachments/assets/8b37f90a-259e-40b7-a340-e2aaf0400384">
-<br>
+<hr /><br>
 <h2>3. Memformat teks</h2>
 <ul>
   <li>Teg mark = Digunakan untuk menandai atau menyoroti teks dan akan ditampilkan dengan latar belakang berwarna kuning (secara default di banyak browser)</li>
@@ -35,7 +38,7 @@
 <p>Contohnya</p>
 <img width="618" alt="Screenshot 2024-09-29 160059" src="https://github.com/user-attachments/assets/df94956b-e768-4d6b-8bbd-e74e1bf1a96b">
 <img width="768" alt="Screenshot 2024-09-29 160155" src="https://github.com/user-attachments/assets/7883ca79-c8c7-48e0-a73b-149782f4adc8">
-<br>
+<hr /><br>
 <h2>5. Menambahkan Link Navigasi</h2>
 <p>Pada bagian ini saya telah menambahkan tiga link navigasi menggunakan tag nav. Sebagai berikut:</p>
 <ul>
@@ -45,5 +48,6 @@
 </ul>
 <img width="613" alt="Screenshot 2024-09-29 162458" src="https://github.com/user-attachments/assets/b90da89a-3771-4e79-96dd-866d1a3f37b2">
 <img width="772" alt="Screenshot 2024-09-29 162524" src="https://github.com/user-attachments/assets/e1e62ffd-0563-42d1-9bfd-5449996f4dd7">
+<hr />
 
 
