@@ -13,15 +13,18 @@
 <img width="772" alt="Screenshot 2024-09-28 233435" src="https://github.com/user-attachments/assets/8b37f90a-259e-40b7-a340-e2aaf0400384">
 <br>
 <h2>3. Memformat teks</h2>
-<p>Teg mark = Digunakan untuk menandai atau menyoroti teks dan akan ditampilkan dengan latar belakang berwarna kuning (secara default di banyak browser)</p>
-<p>Teg b = Digunakan untuk menampilkan teks dalam format tebal (bold).</p>
-<p>Teg i = Digunakan untuk menampilkan teks dalam format miring (italic). </p>
-<p>Teg u = Digunakan untuk memberikan garis bawah pada teks</p>
+<ul>
+  <li>Teg mark = Digunakan untuk menandai atau menyoroti teks dan akan ditampilkan dengan latar belakang berwarna kuning (secara default di banyak browser)</li>
+  <li>Teg b = Digunakan untuk menampilkan teks dalam format tebal (bold)</li>
+  <li>Teg i = Digunakan untuk menampilkan teks dalam format miring (italic).</li>
+  <li>Teg u = Digunakan untuk memberikan garis bawah pada teks</li>
+</ul>
 <P>Contohnya</P>
 <img width="694" alt="Screenshot 2024-09-29 000850" src="https://github.com/user-attachments/assets/0c08de90-dfb2-4682-903d-c99e1f316261">
-<img width="772" alt="Screenshot 2024-09-29 000823" src="https://github.com/user-attachments/assets/50c5a8ba-cf04-458a-a0a1-14c7c33594b1"><br>
+<img width="772" alt="Screenshot 2024-09-29 000823" src="https://github.com/user-attachments/assets/50c5a8ba-cf04-458a-a0a1-14c7c33594b1">
+<br><hr/>
 <h3>4. Menampilkan Gambar</h3>
-<p>Untuk menampilkan gambar, pastikan gambar yang ingin "kita" tampilkan (logo.upb.png) sudah ada di folder yang sama dengan file HTML "kita".</p>
+<p>Untuk menampilkan gambar, pastikan gambar yang ingin saya tampilkan (logo.upb.png) sudah ada di folder yang sama dengan file HTML saya.</p>
 <ul>
   <li>Gunakan tag img dan atribut src untuk memberikan path gambar.</li>
   <li>Atur ukuran gambar menggunakan atribut width dan berikan judul pada gambar menggunakan atribut title.</li>
