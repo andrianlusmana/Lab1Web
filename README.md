@@ -21,8 +21,11 @@
 <img width="694" alt="Screenshot 2024-09-29 000850" src="https://github.com/user-attachments/assets/0c08de90-dfb2-4682-903d-c99e1f316261">
 <img width="772" alt="Screenshot 2024-09-29 000823" src="https://github.com/user-attachments/assets/50c5a8ba-cf04-458a-a0a1-14c7c33594b1"><br>
 <h3>Menampilkan Gambar</h3>
-<p>Untuk menampilkan gambar, pastikan gambar yang ingin kita tampilkan (logo.upb.png) sudah ada di folder yang sama dengan file HTML kita.</p>
+<p>Untuk menampilkan gambar, pastikan gambar yang ingin kita tampilkan (logo.upb.png) sudah ada di folder yang sama dengan file HTML "kita".</p>
 <ul>
   <li>Gunakan tag img dan atribut src untuk memberikan path gambar.</li>
   <li>Atur ukuran gambar menggunakan atribut width dan berikan judul pada gambar menggunakan atribut title.</li>
 </ul>
+<p>Contohnya</p>
+<img width="618" alt="Screenshot 2024-09-29 160059" src="https://github.com/user-attachments/assets/df94956b-e768-4d6b-8bbd-e74e1bf1a96b">
+<img width="768" alt="Screenshot 2024-09-29 160155" src="https://github.com/user-attachments/assets/7883ca79-c8c7-48e0-a73b-149782f4adc8">
