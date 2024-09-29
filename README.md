@@ -20,3 +20,9 @@
 <P>Contohnya</P>
 <img width="694" alt="Screenshot 2024-09-29 000850" src="https://github.com/user-attachments/assets/0c08de90-dfb2-4682-903d-c99e1f316261">
 <img width="772" alt="Screenshot 2024-09-29 000823" src="https://github.com/user-attachments/assets/50c5a8ba-cf04-458a-a0a1-14c7c33594b1"><br>
+<h3>Menampilkan Gambar</h3>
+<p>Untuk menampilkan gambar, pastikan gambar yang ingin kita tampilkan (logo.upb.png) sudah ada di folder yang sama dengan file HTML kita.</p>
+<ul>
+  <li>Gunakan tag img dan atribut src untuk memberikan path gambar.</li>
+  <li>Atur ukuran gambar menggunakan atribut width dan berikan judul pada gambar menggunakan atribut title.</li>
+</ul>
